@@ -104,6 +104,7 @@ public:
 
         vSeeds.push_back(CDNSSeedData("seed.cointech.net", "seed.cointech.net"));
         vSeeds.push_back(CDNSSeedData("seed.aurumcoin-au.com", "seed.aurumcoin-au.com")); 
+	vSeeds.push_back(CDNSSeedData("128.199.238.125", "128.199.238.125")); //nur1labs snapshot seed 2 year + 24 hour
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,0);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,5);
