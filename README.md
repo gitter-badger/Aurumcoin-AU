@@ -1,5 +1,7 @@
 ﻿# Aurumcoin-AU-0.12.4.0-beta
 
+[![Join the chat at https://gitter.im/AurumcoinAU/Lobby](https://badges.gitter.im/AurumcoinAU/Lobby.svg)](https://gitter.im/AurumcoinAU/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 What is AURUM
 AURUM coin is an experimental new digital currency that enables instant payments to anyone, anywhere in the world. Aurum uses peer-to-peer 
 technology to operate with no central authority:managing transactions and issuing money are carried out collectively by the network. 
